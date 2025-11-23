@@ -1,3 +1,4 @@
 line1 add
 demo for commit
 demo for fetch
+editing file1 for pull 
